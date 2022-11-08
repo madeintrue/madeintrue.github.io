@@ -1,6 +1,6 @@
 ---
 title: URL체킹 개인정보 처리방침 
-date: 2022-11-07 09:33:00 +0900
+date: 2022-11-08 09:33:00 +0900
 categories: [privacy]
 tags: [privacy]
 render_with_liquid: false

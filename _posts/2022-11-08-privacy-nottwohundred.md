@@ -1,8 +1,6 @@
 ---
 title: URL체킹 개인정보 처리방침 
 date: 2022-11-07 09:33:00 +0900
-categories: [privacy]
-tags: [privacy]
 render_with_liquid: false
 ---
 
@@ -158,4 +156,4 @@ _
 
 ② 이전의 개인정보 처리방침은 아래에서 확인하실 수 있습니다.
 
-_
+
